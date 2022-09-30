@@ -1,2 +1,4 @@
 # Cryptography
-Basic implementation of protocols and attacks
+
+- Implementation of basic security solutions using cryptographic primitives of OpenSSL library in C 
+- Use of python to implement some basic attacks
